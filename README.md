@@ -1,6 +1,6 @@
 # Quizzer
 
-Quizzer is a simple quiz application built with Python and Tkinter.
+Quizzer is a simple quiz application built with Python, Tkinter, and HTTP requests.
 
 ## Description
 
